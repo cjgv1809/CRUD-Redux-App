@@ -19,6 +19,7 @@ h1 a.text-light:hover {
 }
 .new-post {
   font-weight: bold;
+  white-space: nowrap;
 }
 
 .btn {
@@ -26,25 +27,28 @@ h1 a.text-light:hover {
 }
 .form-group label,
 .list-group-item {
-  font-size: 1.4rem;
+  font-size: 1.2rem;
 }
 
 .navbar .btn {
   flex: 1;
+}
+@media (min-width: 350px) {
+  .actionsBtn:first-child {
+    margin-bottom: 1rem;
+  }
 }
 @media (min-width: 768px) {
   .navbar .btn {
     flex: 0 1 auto;
   }
 }
-.acciones {
-  margin: 1rem 0;
-}
 @media (min-width: 768px) {
-  .acciones {
-    margin: 0;
+  .actionsBtn:first-child {
+    margin-bottom: 0;
+    margin-right: 1rem;
   }
 }
-.acciones > * {
-  flex: 1;
+.actionsBtn {
+  width: 100%;
 }
