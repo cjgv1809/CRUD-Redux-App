@@ -1,0 +1,89 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Jugo de Zanahoria",
+      "price": "311118"
+    },
+    {
+      "id": 2,
+      "name": "Jugo de Naranja",
+      "price": "1"
+    },
+    {
+      "name": "Jugo de Naranja",
+      "price": "300",
+      "id": 3
+    },
+    {
+      "name": "Rib Eye 800g",
+      "price": "200",
+      "id": 4
+    },
+    {
+      "name": "Jugo de Fresa",
+      "price": "200",
+      "id": 5
+    },
+    {
+      "name": "Rib eye 1kg",
+      "price": 5,
+      "id": 6
+    },
+    {
+      "name": "orange juice",
+      "price": 2,
+      "id": 7
+    },
+    {
+      "name": "Apple juice",
+      "price": 50,
+      "id": 8
+    },
+    {
+      "name": "Apple juice",
+      "price": 500,
+      "id": 9
+    },
+    {
+      "name": "Strawberry juice",
+      "price": 500,
+      "id": 10
+    },
+    {
+      "name": "Orange JUICE",
+      "price": 800,
+      "id": 11
+    },
+    {
+      "name": "watermelon juice",
+      "price": 700,
+      "id": 12
+    },
+    {
+      "name": "strawberry juice",
+      "price": 5,
+      "id": 13
+    },
+    {
+      "name": "Pear Juice",
+      "price": 80,
+      "id": 14
+    },
+    {
+      "name": "Pineapple juice",
+      "price": "80",
+      "id": 16
+    },
+    {
+      "name": "Pineapple juice",
+      "price": 8999,
+      "id": 18
+    },
+    {
+      "name": "strawberry juice",
+      "price": 899,
+      "id": 19
+    }
+  ]
+}
